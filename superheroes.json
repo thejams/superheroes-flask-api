@@ -1,0 +1,8 @@
+{
+  "superheroes": [
+    {"name": "Thor", "alias": "Thor Odinson", "id": 1},
+    {"name": "Batman", "alias": "Bruce Wayne", "id": 2},
+    {"name": "Iron Man", "alias": "Tony Stark", "id": 3},
+    {"name": "Superman", "alias": "Clark Kent", "id": 4}
+  ]
+}
